@@ -1,0 +1,44 @@
+{
+  "identificacao_projeto": "Galpão Logístico Bandeirantes",
+  "processo_executivo": "ESTACA_PRE_MOLDADA_CONCRETO",
+  "responsavel_tecnico": "Eng. Martin Lofrano de Oliveira - CREA/SP",
+  "geometria": {
+    "tipo_secao": "QUADRADA",
+    "diametro_ou_lado_m": "7/20",
+    "comprimento_fuste_m": 11,
+    "fck_concreto_mpa": 35,
+    "cota_arrasamento_m": 0,
+    "taxa_armadura_adotada": "3/500"
+  },
+  "solicitacao": {
+    "forca_normal_compressao_kn": 650,
+    "forca_tracao_kn": 0,
+    "momento_fletor_knm": 0,
+    "forca_horizontal_kn": 0
+  },
+  "perfil_solo": [
+    {
+      "profundidade_topo_m": 0,
+      "profundidade_base_m": 4,
+      "tipo_solo": "SILTE_ARGILOSO",
+      "nspt_medio": 5
+    },
+    {
+      "profundidade_topo_m": 4,
+      "profundidade_base_m": 9,
+      "tipo_solo": "AREIA_ARGILOSA",
+      "nspt_medio": 14
+    },
+    {
+      "profundidade_topo_m": 9,
+      "profundidade_base_m": 15,
+      "tipo_solo": "AREIA",
+      "nspt_medio": 24
+    }
+  ],
+  "grupo": {
+    "numero_estacas_bloco": 2,
+    "espacamento_entre_eixos_m": "21/20"
+  },
+  "possui_prova_carga": true
+}

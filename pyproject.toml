@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dimensionamento-fundacoes-profundas-nbr6122"
+version = "1.0.0"
+description = "Dimensionamento determinístico de fundações profundas (Aoki-Velloso e Décourt-Quaresma) conforme ABNT NBR 6122:2022."
+readme = "README.md"
+authors = [
+    { name = "LOFRANO TECNOLOGIA", email = "contato@lofranotecnologia.com.br" },
+    { name = "Martin Lofrano de Oliveira" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Operating System :: OS Independent",
+    "Natural Language :: Portuguese (Brazilian)",
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+fundacoes-profundas-nbr6122 = "fundacoes_profundas_nbr6122.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

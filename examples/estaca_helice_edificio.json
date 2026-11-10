@@ -1,0 +1,50 @@
+{
+  "identificacao_projeto": "Edifício Residencial Jardins - Bloco B",
+  "processo_executivo": "ESTACA_HELICE_CONTINUA",
+  "responsavel_tecnico": "Eng. Martin Lofrano de Oliveira - CREA/SP",
+  "geometria": {
+    "tipo_secao": "CIRCULAR",
+    "diametro_ou_lado_m": "1/2",
+    "comprimento_fuste_m": 14,
+    "fck_concreto_mpa": 30,
+    "cota_arrasamento_m": 0,
+    "taxa_armadura_adotada": "1/200"
+  },
+  "solicitacao": {
+    "forca_normal_compressao_kn": 700,
+    "forca_tracao_kn": 0,
+    "momento_fletor_knm": 0,
+    "forca_horizontal_kn": 0
+  },
+  "perfil_solo": [
+    {
+      "profundidade_topo_m": 0,
+      "profundidade_base_m": 3,
+      "tipo_solo": "ARGILA_SILTOSA",
+      "nspt_medio": 4
+    },
+    {
+      "profundidade_topo_m": 3,
+      "profundidade_base_m": 8,
+      "tipo_solo": "SILTE_ARENOSO",
+      "nspt_medio": 9
+    },
+    {
+      "profundidade_topo_m": 8,
+      "profundidade_base_m": 12,
+      "tipo_solo": "AREIA_SILTOSA",
+      "nspt_medio": 18
+    },
+    {
+      "profundidade_topo_m": 12,
+      "profundidade_base_m": 18,
+      "tipo_solo": "AREIA",
+      "nspt_medio": 28
+    }
+  ],
+  "grupo": {
+    "numero_estacas_bloco": 1,
+    "espacamento_entre_eixos_m": 0
+  },
+  "possui_prova_carga": false
+}

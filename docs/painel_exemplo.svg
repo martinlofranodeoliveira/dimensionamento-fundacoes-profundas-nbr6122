@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900" style="background:#0f172a; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<defs>
+  <linearGradient id="gradHeader" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.8"/>
+  </linearGradient>
+  <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+  </filter>
+</defs>
+<rect width="1440" height="900" fill="#0f172a"/>
+<rect x="30" y="24" width="1380" height="76" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="56" y="52" fill="#06b6d4" font-size="13" font-weight="700" letter-spacing="1.5">LOFRANO TECNOLOGIA • ENGENHARIA GEOTÉCNICA E ESTRUTURAL</text>
+<text x="56" y="78" fill="#f8fafc" font-size="20" font-weight="700">Fundações Profundas — Edifício Residencial Jardins - Bloco B (ABNT NBR 6122:2022)</text>
+<rect x="1170" y="40" width="220" height="44" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="1192" cy="62" r="6" fill="#10b981"/>
+<text x="1208" y="67" fill="#10b981" font-size="13" font-weight="700">CONFORME NBR 6122</text>
+<rect x="30" y="116" width="420" height="230" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.2" filter="url(#shadow)"/>
+<text x="50" y="144" fill="#06b6d4" font-size="14" font-weight="700">1. GEOMETRIA E CARREGAMENTO</text>
+<line x1="50" y1="154" x2="430" y2="154" stroke="#334155" stroke-width="1"/>
+<text x="50" y="180" fill="#94a3b8" font-size="13">Processo Executivo:</text>
+<text x="430" y="180" text-anchor="end" fill="#f8fafc" font-size="13" font-weight="600">ESTACA_HELICE_CONTINUA</text>
+<text x="50" y="206" fill="#94a3b8" font-size="13">Tipo de Seção / Diâmetro:</text>
+<text x="430" y="206" text-anchor="end" fill="#f8fafc" font-size="13">CIRCULAR (0.50 m)</text>
+<text x="50" y="232" fill="#94a3b8" font-size="13">Comprimento do Fuste:</text>
+<text x="430" y="232" text-anchor="end" fill="#f8fafc" font-size="13">14.0 m</text>
+<text x="50" y="258" fill="#94a3b8" font-size="13">Carga Normal de Compressão (Nk):</text>
+<text x="430" y="258" text-anchor="end" fill="#f97316" font-size="15" font-weight="700">700.0 kN</text>
+<text x="50" y="290" fill="#94a3b8" font-size="11" font-style="italic">Dimensionamento conforme critérios de ruptura e serviço.</text>
+<rect x="30" y="362" width="420" height="230" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.2" filter="url(#shadow)"/>
+<text x="50" y="390" fill="#06b6d4" font-size="14" font-weight="700">2. CAPACIDADE DE CARGA GEOTÉCNICA</text>
+<line x1="50" y1="400" x2="430" y2="400" stroke="#334155" stroke-width="1"/>
+<text x="50" y="426" fill="#94a3b8" font-size="13">Aoki-Velloso (R_adm):</text>
+<text x="430" y="426" text-anchor="end" fill="#f8fafc" font-size="13">1878.28 kN (Rp: 2748.1 | Rl: 1007.1)</text>
+<text x="50" y="452" fill="#94a3b8" font-size="13">Décourt-Quaresma (R_adm):</text>
+<text x="430" y="452" text-anchor="end" fill="#f8fafc" font-size="13">759.22 kN (Rp: 329.1 | Rl: 1188.1)</text>
+<text x="50" y="478" fill="#94a3b8" font-size="13">Fator de Segurança Geotécnico:</text>
+<text x="430" y="478" text-anchor="end" fill="#f8fafc" font-size="13">FS = 2.0</text>
+<text x="50" y="508" fill="#94a3b8" font-size="13">Capacidade Adotada por Estaca:</text>
+<text x="430" y="508" text-anchor="end" fill="#10b981" font-size="15" font-weight="700">759.22 kN</text>
+<text x="50" y="534" fill="#94a3b8" font-size="13">Capacidade do Bloco de Coroamento:</text>
+<text x="430" y="534" text-anchor="end" fill="#06b6d4" font-size="15" font-weight="700">759.22 kN</text>
+<rect x="30" y="608" width="420" height="254" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.2" filter="url(#shadow)"/>
+<text x="50" y="636" fill="#06b6d4" font-size="14" font-weight="700">3. SEGURANÇA ESTRUTURAL DO FUSTE</text>
+<line x1="50" y1="646" x2="430" y2="646" stroke="#334155" stroke-width="1"/>
+<text x="50" y="672" fill="#94a3b8" font-size="13">Classe do Concreto (fck):</text>
+<text x="430" y="672" text-anchor="end" fill="#f8fafc" font-size="13" font-weight="600">30.0 MPa</text>
+<text x="50" y="698" fill="#94a3b8" font-size="13">Área de Aço Adotada (As):</text>
+<text x="430" y="698" text-anchor="end" fill="#f8fafc" font-size="13">9.82 cm² (Mín: 7.85 cm²)</text>
+<text x="50" y="724" fill="#94a3b8" font-size="13">Tensão de Trabalho no Concreto:</text>
+<text x="430" y="724" text-anchor="end" fill="#f8fafc" font-size="13">3.57 MPa</text>
+<text x="50" y="750" fill="#94a3b8" font-size="13">Carga Normal Estrutural Admissível:</text>
+<text x="430" y="750" text-anchor="end" fill="#10b981" font-size="14" font-weight="700">2476.26 kN</text>
+<rect x="50" y="770" width="380" height="32" rx="6" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1"/>
+<text x="240" y="791" text-anchor="middle" fill="#10b981" font-size="12" font-weight="700">FUSTE APROVADO</text>
+<text x="50" y="830" fill="#94a3b8" font-size="11">Minoração executiva do concreto aplicada conforme NBR 6122.</text>
+<rect x="474" y="116" width="490" height="746" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.2" filter="url(#shadow)"/>
+<text x="494" y="144" fill="#06b6d4" font-size="14" font-weight="700">PERFIL ESTRATIGRÁFICO E FUSTE DA ESTACA</text>
+<line x1="494" y1="154" x2="944" y2="154" stroke="#334155" stroke-width="1"/>
+<line x1="500" y1="200" x2="938" y2="200" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8,4"/>
+<text x="510" y="192" fill="#94a3b8" font-size="11">Cota do Terreno (0.00 m)</text>
+<rect x="630" y="170" width="180" height="60" rx="4" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
+<text x="720" y="205" text-anchor="middle" fill="#f8fafc" font-size="12" font-weight="700">BLOCO DE COROAMENTO</text>
+<path d="M 720 125 L 720 165" stroke="#f97316" stroke-width="4"/>
+<polygon points="714,160 726,160 720,170" fill="#f97316"/>
+<text x="735" y="145" fill="#f97316" font-size="12" font-weight="700">Nk = 700 kN</text>
+<rect x="700" y="230" width="40" height="480" fill="#64748b" stroke="#cbd5e1" stroke-width="2"/>
+<text x="750" y="470" fill="#cbd5e1" font-size="12" font-weight="600">FUSTE</text>
+<text x="750" y="490" fill="#94a3b8" font-size="11">D = 0.50 m</text>
+<text x="750" y="510" fill="#94a3b8" font-size="11">L = 14.0 m</text>
+<ellipse cx="720" cy="710" rx="30" ry="20" fill="#475569" stroke="#f97316" stroke-width="2"/>
+<text x="720" y="745" text-anchor="middle" fill="#f97316" font-size="11" font-weight="700">PONTA DA ESTACA</text>
+<path d="M 685 300 L 695 300 M 690 295 L 695 300 L 690 305" stroke="#38bdf8" stroke-width="2"/>
+<path d="M 685 450 L 695 450 M 690 445 L 695 450 L 690 455" stroke="#38bdf8" stroke-width="2"/>
+<path d="M 685 600 L 695 600 M 690 595 L 695 600 L 690 605" stroke="#38bdf8" stroke-width="2"/>
+<path d="M 755 300 L 745 300 M 750 295 L 745 300 L 750 305" stroke="#38bdf8" stroke-width="2"/>
+<path d="M 755 450 L 745 450 M 750 445 L 745 450 L 750 455" stroke="#38bdf8" stroke-width="2"/>
+<path d="M 755 600 L 745 600 M 750 595 L 745 600 L 750 605" stroke="#38bdf8" stroke-width="2"/>
+<text x="580" y="470" fill="#38bdf8" font-size="11" font-weight="600">Atrito Lateral (Rl)</text>
+<path d="M 720 780 L 720 735" stroke="#f97316" stroke-width="3"/>
+<polygon points="715,745 725,745 720,735" fill="#f97316"/>
+<text x="720" y="805" text-anchor="middle" fill="#f97316" font-size="11" font-weight="600">Reação de Ponta (Rp)</text>
+<rect x="988" y="116" width="422" height="746" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1.2" filter="url(#shadow)"/>
+<text x="1008" y="144" fill="#06b6d4" font-size="14" font-weight="700">MEMÓRIA TÉCNICA E RECOMENDAÇÕES</text>
+<line x1="1008" y1="154" x2="1390" y2="154" stroke="#334155" stroke-width="1"/>
+<rect x="1008" y="170" width="382" height="210" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1.2"/>
+<text x="1024" y="196" fill="#3b82f6" font-size="13" font-weight="700">MÉTODO COMPARATIVO AOKI X DÉCOURT</text>
+<line x1="1024" y1="206" x2="1374" y2="206" stroke="#334155" stroke-width="1"/>
+<text x="1024" y="230" fill="#94a3b8" font-size="12">Ponta Aoki-Velloso:</text>
+<text x="1374" y="230" text-anchor="end" fill="#f8fafc" font-size="12">2748.9 kN</text>
+<text x="1024" y="254" fill="#94a3b8" font-size="12">Lateral Aoki-Velloso:</text>
+<text x="1374" y="254" text-anchor="end" fill="#f8fafc" font-size="12">1007.7 kN</text>
+<text x="1024" y="278" fill="#94a3b8" font-size="12">Ponta Décourt-Quaresma:</text>
+<text x="1374" y="278" text-anchor="end" fill="#f8fafc" font-size="12">329.9 kN</text>
+<text x="1024" y="302" fill="#94a3b8" font-size="12">Lateral Décourt-Quaresma:</text>
+<text x="1374" y="302" text-anchor="end" fill="#f8fafc" font-size="12">1188.6 kN</text>
+<text x="1024" y="330" fill="#94a3b8" font-size="12">Critério de Adotação:</text>
+<text x="1374" y="330" text-anchor="end" fill="#10b981" font-size="12" font-weight="700">Menor Valor (Envoltória Mínima)</text>
+<text x="1024" y="356" fill="#94a3b8" font-size="11" font-style="italic">Preserva margem de segurança contra heterogeneidade do solo.</text>
+<rect x="1008" y="400" width="382" height="150" rx="8" fill="#065f46" fill-opacity="0.3" stroke="#10b981" stroke-width="1"/>
+<text x="1024" y="426" fill="#10b981" font-size="12" font-weight="700">STATUS NORMATIVO PLENO:</text>
+<text x="1024" y="454" fill="#a7f3d0" font-size="11">• Capacidade geotécnica superior à carga solicitante.</text>
+<text x="1024" y="478" fill="#a7f3d0" font-size="11">• Fuste de concreto dimensionado conforme NBR 6118.</text>
+<text x="1024" y="502" fill="#a7f3d0" font-size="11">• Armadura longitudinal atende aos requisitos mínimos da NBR 6122.</text>
+<text x="720" y="885" text-anchor="middle" fill="#94a3b8" font-size="11">Lofrano Tecnologia • Engenharia de Fundações e Geotecnia • São Paulo, Brasil • 2026</text>
+</svg>
